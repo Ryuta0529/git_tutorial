@@ -1,3 +1,4 @@
 gitの 練習
 　aaaaaaaaaaaaaa
 s
+git status
