@@ -2,3 +2,4 @@ gitの 練習
 　aaaaaaaaaaaaaa
 s
 git status
+test1.test2
