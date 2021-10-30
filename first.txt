@@ -3,3 +3,6 @@ gitの 練習
 s
 git status
 test1.test2
+
+
+git commit --amend
